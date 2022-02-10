@@ -28,7 +28,7 @@
         <flatten.version>1.2.2</flatten.version>
         <mapstruct.version>1.2.0.Final</mapstruct.version>
         <jaxb.version>2.3.0</jaxb.version>
-        <hibernate.version>5.4.0.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <lombok.version>1.18.4</lombok.version>
     </properties>
 
